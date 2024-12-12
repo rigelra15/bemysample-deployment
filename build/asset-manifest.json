@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2fabc9e.css",
+    "main.js": "/static/js/main.a58e2cb2.js",
+    "static/js/453.70009452.chunk.js": "/static/js/453.70009452.chunk.js",
+    "static/media/welcomeIllustrationBeMySample.gif": "/static/media/welcomeIllustrationBeMySample.af77c61bb6f5ff5a3c15.gif",
+    "static/media/c2.png": "/static/media/c2.a3822e6f539dd1ebd619.png",
+    "static/media/c3.png": "/static/media/c3.a18951cef121751285ec.png",
+    "static/media/footer_circle_round.png": "/static/media/footer_circle_round.ab9571169843b1faede3.png",
+    "static/media/bgLogin.png": "/static/media/bgLogin.89434b9244622431f586.png",
+    "static/media/c1.png": "/static/media/c1.a2fcbd61cbe19a3d4af5.png",
+    "static/media/pictFillData.png": "/static/media/pictFillData.8939fdb1e7b951fd2901.png",
+    "static/media/SurveyCover.png": "/static/media/SurveyCover.65a5ea1dccb8206d2303.png",
+    "static/media/Charts.png": "/static/media/Charts.4004edb5e27820c7d528.png",
+    "static/media/404.png": "/static/media/404.71aedb8ec0b3eda068d6.png",
+    "static/media/profilepict.png": "/static/media/profilepict.93ead9818d5ecf98a563.png",
+    "static/media/BeMySampleLogo_Transparent.png": "/static/media/BeMySampleLogo_Transparent.551ba12961bd5f0f1965.png",
+    "static/media/defaultCover.png": "/static/media/defaultCover.da2a1927044299d66aa2.png",
+    "static/media/default-profile.png": "/static/media/default-profile.cdaebb6f948718199049.png",
+    "static/media/section1publish.png": "/static/media/section1publish.9bf0fe7d3324946e0453.png",
+    "static/media/groupFooterUnpublished.png": "/static/media/groupFooterUnpublished.edce89812ce5222b5952.png",
+    "static/media/gillsansmt.ttf": "/static/media/gillsansmt.b007384538f12caa4fc4.ttf",
+    "static/media/penguinFooterPublish.png": "/static/media/penguinFooterPublish.2b0e63760f8ee5e29d53.png",
+    "static/media/footerGrayscalePublish.png": "/static/media/footerGrayscalePublish.cd2bdc8efdc54613f16a.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.a2fabc9e.css.map": "/static/css/main.a2fabc9e.css.map",
+    "main.a58e2cb2.js.map": "/static/js/main.a58e2cb2.js.map",
+    "453.70009452.chunk.js.map": "/static/js/453.70009452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2fabc9e.css",
+    "static/js/main.a58e2cb2.js"
+  ]
+}
